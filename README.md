@@ -8,7 +8,8 @@ Or `brew tap avito-tech/tap` and then `brew install <formula>`.
 
 List of availbale products:
 
-- `emcee` for [Emcee tests runner](https://github.com/avito-tech/Emcee).
+- `emcee` Command-Line interface for [Emcee tests runner](https://github.com/avito-tech/Emcee).
+- `emcee-cloud` Command-Line interface for [Emcee.cloud](https://docs.emcee.cloud/cloud/qstart/).
 
 ## Documentation
 
