@@ -1,9 +1,9 @@
 class EmceeCloud < Formula
   desc "Command-Line interface for Emcee.cloud"
   homepage "https://emceetool.io/"
-  url "https://github.com/avito-tech/Emcee.cloud-CLI/releases/download/0.0.2/emcee-cloud_Darwin_all.tar.gz"
-  version "0.0.2"
-  sha256 "3402b747c2e8769b8838bec28ef0fc5c48f103b59e97da9aec68296e75060752"
+  url "https://github.com/avito-tech/Emcee.cloud-CLI/releases/download/0.1.0/emcee-cloud_Darwin_all.tar.gz"
+  version "0.1.0"
+  sha256 "2c73eafb1d84ac38311691706fe5fc5a35efae2a3ea457fbd604a7d889c59bb7"
   license "MIT"
 
   def install
