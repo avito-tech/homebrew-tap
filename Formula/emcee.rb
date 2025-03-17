@@ -1,13 +1,13 @@
 class Emcee < Formula
   desc "Emcee the tests runner"
   homepage "https://emceetool.io/"
-  version "21.8.0"
+  version "21.9.0"
 
   if OS.mac?
     depends_on :macos => :monterey
 
-    url "https://github.com/avito-tech/Emcee/releases/download/21.8.0/homebrew-archive.zip"
-    sha256 "d6d52a88acab476255f7a063e314b15388c741bca3b9f93478d4a155ef6168bb"
+    url "https://github.com/avito-tech/Emcee/releases/download/21.9.0/homebrew-archive.zip"
+    sha256 "54bd92e2885c13203b717c1463fee77448a221cfe109d21455ef8165c62c78c7"
 
     def install
       libexec.install "emcee", "emcee-ios", "EmceeTestsInspector", "emcee.jar"
